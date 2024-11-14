@@ -1,9 +1,9 @@
 <h1 align="center" style="font-weight: bold;">Si Buku📚</h1>
 
 <p align="center">
- <a href="#tech">Technologies</a> • 
+ <a href="#technologies">Teknologi</a> • 
+ <a href="#routes">Dokumentasi API</a> •
 <!--  <a href="#started">Getting Started</a> • 
-  <a href="#routes">API Endpoints</a> •
  <a href="#colab">Collaborators</a> •
  <a href="#contribute">Contribute</a> -->
 </p>
@@ -12,12 +12,16 @@
     <b>Si Buku adalah sebuah website dimana pengguna dapat mengulas buku yang telah dibaca.</b>
 </p>
 
-<h2 id="technologies">💻 Technologies</h2>
+<h2 id="technologies">💻 Teknologi</h2>
 
 - JavaScript
 - ExpressJS
 - SQLite
 - Midtrans
+
+<h2 id="routes">📍 API Endpoints</h2>
+
+Berikut adalah link dokumentasi API: https://documenter.getpostman.com/view/28796164/2sA2xh1s3R.
 <!--
 <h2 id="started">🚀 Getting started</h2>
 
